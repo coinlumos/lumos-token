@@ -1,0 +1,21 @@
+{
+  "name": "LUMOS",
+  "symbol": "LUMOS",
+  "description": "coin LUMOS ⚡✨",
+  "image": "https://example.com/lumos-logo.png",
+  "external_url": "https://coinlumos.com",
+  "attributes": [
+    {
+      "trait_type": "Supply Type",
+      "value": "Maximum Possible"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "18"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ]
+}
