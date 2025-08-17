@@ -1,9 +1,9 @@
 {
   "name": "LUMOS",
   "symbol": "LUMOS",
-  "description": "coin LUMOS ⚡✨",
-  "image": "https://example.com/lumos-logo.png",
-  "external_url": "https://coinlumos.com",
+  "description": "LUMOS coin",
+  "image": "https://raw.githubusercontent.com/coinlumos/lumos-token/main/assets/images/LUMOS_512.jpg",
+  "external_url": "https://github.com/coinlumos/lumos-token",
   "attributes": [
     {
       "trait_type": "Supply Type",
