@@ -1,21 +1,50 @@
 {
   "name": "LUMOS",
   "symbol": "LUMOS",
-  "description": "LUMOS coin",
+  "description": "Metadata LUMOS to Solana Devnet",
   "image": "https://raw.githubusercontent.com/coinlumos/lumos-token/main/assets/images/LUMOS_512.jpg",
   "external_url": "https://github.com/coinlumos/lumos-token",
   "attributes": [
     {
-      "trait_type": "Supply Type",
-      "value": "Maximum Possible"
+      "trait_type": "Total Supply",
+      "value": "10,000,000,000"
     },
     {
       "trait_type": "Decimals",
-      "value": "18"
+      "value": "9"
     },
     {
       "trait_type": "Network",
-      "value": "Solana Devnet"
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL Token-2022"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Disabled"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Disabled"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Launch Version",
+      "value": "V4"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/coinlumos/lumos-token/main/assets/images/LUMOS_512.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
